@@ -1,0 +1,1 @@
+A collection of competitive programming solutions in C++. Note that everything in the second commit "added past cpp code" is not indicative of present C++ quality; I've learnt and improved since then.
